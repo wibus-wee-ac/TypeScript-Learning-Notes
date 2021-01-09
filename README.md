@@ -19,3 +19,5 @@ https://iucky.cn/posts/code/typescript-2
 https://iucky.cn/posts/code/typescript-3
 
 https://iucky.cn/posts/code/typescript-4
+
+https://iucky.cn/posts/code/typescript-5
