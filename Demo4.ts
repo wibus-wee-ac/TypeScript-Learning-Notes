@@ -32,7 +32,7 @@ const three = one + two;
 // 4 需要写的例子 🌰
 function getTotal(one, two) {
     return one + two;
-  }
+}
 const total = getTotal(1, 2); //正常情况
 const Warningtotal = getTotal(1, "字符串"); //非正常情况
 //   这种形式，就需要用到类型注释了，因为这里的one和two会显示为any类型。这时候如果你传字符串，你的逻辑就是错误的，所以你必须加一个类型注解

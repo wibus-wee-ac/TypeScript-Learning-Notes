@@ -29,6 +29,7 @@ const xiaoJieJies : string[] = ["Awa", "Qwq", "老婆"];
 // 这时候的意思是，变量xiaoJieJies必须是一个数组，数组里的内容必须是字符串。你可以试着把字符串改为数字，VSCode会直接给我们报错。
 // ⚠️错误示范
 const ErrorxiaoJieJies : string[] = [123, "Qwq", "老婆"]; //VSC将会直接报错
+// const BetterxiaoJieJies: (string|number)[] = [123, "Qwq", "老婆"]; 这个在后面的文件中有提到
 
 // 3 类
 

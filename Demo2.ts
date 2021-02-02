@@ -6,7 +6,7 @@
  */
 
  // 1 一般的静态类型
- const count: number = 1; //此时number这个变量值为0
+ const count: number = 1; //此时number这个变量值为1
 
 /**
   * 这里的: number就是定义了一个静态类型。

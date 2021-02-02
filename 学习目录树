@@ -1,0 +1,66 @@
+1 Typescript环境搭建
+1.1 ts-node工具
+Demo1.ts
+2 Typescript静态类型
+2.1 一般静态类型
+2.2 自定义静态类型
+Demo2.ts
+3 Typescript基础静态类型和对象类型
+3.1 基础静态类型
+3.2 对象类型
+3.2.1 最简单的对象类型
+3.2.2 数组对象类型
+3.2.3 类类型
+3.2.4 函数类型
+Demo3.ts
+4 Typescript的类型注解和类型推断
+4.1 type annotation类型注解
+4.2 type inference类型推断
+4.2.1 工作使用问题(潜规则)
+4.2.2 不需要注解例子
+4.2.3 需要写的例子
+4.2.4 推断对象中属性的类型
+Demo4.ts
+5 TypeScript函数参数和返回类型定义
+5.1 简单类型定义
+5.2 函数无返回值时定义方法
+5.3 never返回值类型
+5.4 函数参数为对象(解构)时
+Demo5.ts
+6 TypeScript中数组类型的定义
+6.1 一般数组类型的定义
+6.2 数组中对象类型的定义
+6.2.1 Type Alias类型别名
+6.2.2 Class定义
+Demo6.ts
+7 TypeScript元组的使用和类型约束
+7.1 元组的基本使用
+7.2 元组的使用
+Demo7.ts
+8 TypeScript的interface接口
+8.1 Interface接口初步了解
+8.2 接口和类型别名的区别
+8.3 接口非必选值定义
+Demo8.ts
+9 TypeScript的interface接口2
+9.1 允许加入任意值
+9.2 接口里的方法
+9.3 接口和类的约束
+9.4 接口的继承
+Demo9.ts
+10 TypeScript类的概念和使用
+10.1 类的基本使用
+10.2 类的继承
+10.3 类的重写
+10.4 super关键字的使用
+Demo10.ts
+11 TypeScript中类的访问类型
+11.1 简单的类
+11.2 public 访问属性
+11.3 private访问属性
+11.4 protected访问属性
+Demo11.ts
+12 TypeScript类的构造函数
+12.1 类的构造函数
+12.1.1 简单的写法
+12.2 类继承中的构造器写法
